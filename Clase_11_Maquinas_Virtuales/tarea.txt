@@ -1,0 +1,10 @@
+1.Describan con sus palabras lo que acaban de hacer
+R/: Primero verificamos la conexión a internet, luego instalamso git para clonar nuestro repositorio y a su vez empezar a trabajar desde allí.
+2.Describir para que sirve "apt-get"
+R/: Se utiliza para llamar al gestor de paquetes para poder realizar una instalación.
+3.Describir para qué sirve "su".
+R/: Para entrar como root osea SuperUsuario.
+4.Les resulto familiar esta forma de conectarse a un equipo?
+R/: Sí, ya se había trabajo antiguamente desde el git bash pero esta vez se implemento en Debian.
+
+
